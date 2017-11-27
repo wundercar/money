@@ -66,7 +66,7 @@ defmodule Money.Currency do
     DOP: %{name: "Dominican Peso",                                         symbol: "RD$",  exponent: 2},
     DZD: %{name: "Algerian Dinar",                                         symbol: "دج",    exponent: 2},
     EEK: %{name: "Kroon",                                                  symbol: "KR",    exponent: 2},
-    EGP: %{name: "Egyptian Pound",                                         symbol: "£",    exponent: 2},
+    EGP: %{name: "Egyptian Pound",                                         symbol: "LE",    exponent: 2},
     ERN: %{name: "Nakfa",                                                  symbol: "Nfk",    exponent: 2},
     ETB: %{name: "Ethiopian Birr",                                         symbol: "Br",    exponent: 2},
     EUR: %{name: "Euro",                                                   symbol: "€",    exponent: 2},
