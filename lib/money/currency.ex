@@ -164,7 +164,7 @@ defmodule Money.Currency do
     TMT: %{name: "Manat",                                                  symbol: "₼",    exponent: 2},
     TND: %{name: "Tunisian Dinar",                                         symbol: "د.ت",    exponent: 2},
     TOP: %{name: "Pa'anga",                                                symbol: "T$",    exponent: 2},
-    TRY: %{name: "Turkish Lira",                                           symbol: "TL",   exponent: 2},
+    TRY: %{name: "Turkish Lira",                                           symbol: "₺",   exponent: 2},
     TTD: %{name: "Trinidad and Tobago Dollar",                             symbol: "TT$",  exponent: 2},
     TWD: %{name: "New Taiwan Dollar",                                      symbol: "NT$",  exponent: 2},
     TZS: %{name: "Tanzanian Shilling",                                     symbol: "Tsh",    exponent: 2},
